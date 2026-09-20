@@ -158,16 +158,20 @@
 
 **Комментарий заказчика:** [«ТЗ СОГЛАСОВАНО» ИЛИ ОДИН КОНКРЕТНЫЙ ЗАПРОС НА УТОЧНЕНИЕ]
 
-**Ссылка на PR с ТЗ:** [ВСТАВИТЬ ССЫЛКУ]
+**Ссылка на PR с ТЗ:** [https://github.com/Leo-TOP/lesson_1-2_turn-requirements-into-interface_practice/pull/6]
 
 **Статус:** [DRAFT / СОГЛАСОВАНО / MERGED]
 
-<!--
-ФИНАЛЬНАЯ ОЧИСТКА ПЕРЕД ОТПРАВКОЙ
+«4. Отчет исполнителя о реализации»
 
-- Удалите все HTML-комментарии из файла.
-- Замените все подсказки в квадратных скобках.
-- Удалите невыбранные варианты через `/`.
-- Не оставляйте расшифровку интервью.
-- Не добавляйте реализацию в PR до согласования ТЗ.
--->
+Cсылку на свой форк с домашней работой:https://github.com/Veslo7/lesson_1-2_turn-requirements-into-interface_homework
+Cсылку на замерженный PR с реализацией:https://github.com/Veslo7/lesson_1-2_turn-requirements-into-interface_homework/pull/1
+Cсылку на сайт в GitHub Pages:https://veslo7.github.io/lesson_1-2_turn-requirements-into-interface_homework/project/
+Ссылку на конструктор:  https://github.com/hse-drip-web-2026-2027/lesson_1-2_turn-requirements-into-interface_helpers
+Выбрал 1-ый вариант работы с конструктором
+Использованные заготовки: .block, .content-section, .section-heading, .card-grid, .item-card, .it
+Таблицу соответствия требований и элементов страницы:
+Расположение Flexbox, Grid, БЭМ и медиазапроса:
+Результат проверки на 360 px и 1200 px: Корректно работает
+Информацию об использовании ИИ: Не использовалось
+READY FOR CUSTOMER REVIEW
